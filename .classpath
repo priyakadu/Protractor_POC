@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="D:/Installables/selenium-server-standalone-4.0.0-alpha-1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kadu_p/Downloads/spring_jar_files/spring-batch-core-4.2.2.RELEASE.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kadu_p/Downloads/aribaweb-5.2/ide/ariba.ideplugin.eclipse.5.0.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kadu_p/Downloads/aribaweb-5.2/lib/ariba.appcore.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kadu_p/Downloads/aribaweb-5.2/lib/ariba.appcore-src.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kadu_p/Downloads/aribaweb-5.2/lib/ariba.aribaweb.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kadu_p/Downloads/aribaweb-5.2/lib/ariba.aw-all-src.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kadu_p/Downloads/aribaweb-5.2/lib/ariba.awreload.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kadu_p/Downloads/aribaweb-5.2/lib/ariba.awreload-jmti.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kadu_p/Downloads/aribaweb-5.2/lib/ariba.expr.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kadu_p/Downloads/aribaweb-5.2/lib/ariba.groovyloader.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kadu_p/Downloads/aribaweb-5.2/lib/ariba.metaui.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kadu_p/Downloads/aribaweb-5.2/lib/ariba.metaui-jpa.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kadu_p/Downloads/aribaweb-5.2/lib/ariba.util.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kadu_p/Downloads/aribaweb-5.2/lib/ariba.widgets.jar"/>
+	<classpathentry kind="lib" path="C:/Users/kadu_p/Downloads/jar_files/ngdbc-2.4.76.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
